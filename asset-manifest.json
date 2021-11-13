@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Scrippty-my-app/static/css/main.9fb89807.chunk.css",
+    "main.js": "/Scrippty-my-app/static/js/main.29c12f95.chunk.js",
+    "main.js.map": "/Scrippty-my-app/static/js/main.29c12f95.chunk.js.map",
+    "runtime-main.js": "/Scrippty-my-app/static/js/runtime-main.9f27a86e.js",
+    "runtime-main.js.map": "/Scrippty-my-app/static/js/runtime-main.9f27a86e.js.map",
+    "static/js/2.2c4be4db.chunk.js": "/Scrippty-my-app/static/js/2.2c4be4db.chunk.js",
+    "static/js/2.2c4be4db.chunk.js.map": "/Scrippty-my-app/static/js/2.2c4be4db.chunk.js.map",
+    "static/js/3.c30fbaf1.chunk.js": "/Scrippty-my-app/static/js/3.c30fbaf1.chunk.js",
+    "static/js/3.c30fbaf1.chunk.js.map": "/Scrippty-my-app/static/js/3.c30fbaf1.chunk.js.map",
+    "index.html": "/Scrippty-my-app/index.html",
+    "static/css/main.9fb89807.chunk.css.map": "/Scrippty-my-app/static/css/main.9fb89807.chunk.css.map",
+    "static/js/2.2c4be4db.chunk.js.LICENSE.txt": "/Scrippty-my-app/static/js/2.2c4be4db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f27a86e.js",
+    "static/js/2.2c4be4db.chunk.js",
+    "static/css/main.9fb89807.chunk.css",
+    "static/js/main.29c12f95.chunk.js"
+  ]
+}
